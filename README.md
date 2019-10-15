@@ -39,6 +39,12 @@ Repository
  Page2 content
  ```
  
+ ## How to preview online
+ 以下のurlにアクセス
+ gitpitch.com/smart-round/smartround-tech-presentation
+ ※ブランチを選択したい場合
+ gitpitch.com/smart-round/smartround-tech-presentation/<ブランチ名>
+ 
  ## How to develope in local enviroment
   * ローカルでの開発を行う場合はあらかじめgit cloneしたファイルを編集して、git pushしてください。
   * ローカルでのプレビューはpro版のみの対応になっています。ただ、freeでもローカルでプレビューをできるDocker imageを作っている人がいたので載せます。
