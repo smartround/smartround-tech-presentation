@@ -7,7 +7,7 @@
 ```
 Repository
  ├ README.md
- ├ HOW_TO_DEVELOPE.md
+ ├ HOW_TO_DEVELOP.md
  ├ PITCHME.md     #スライド本体
  ├ PITCHME.yaml   #スライド設定ファイル
  └ assets
@@ -40,7 +40,7 @@ Repository
  ※ブランチを選択したい場合
  gitpitch.com/smart-round/smartround-tech-presentation/<ブランチ名>
  
- ## How to develope in local enviroment
+ ## How to develop in local enviroment
   * ローカルでの開発を行う場合はあらかじめgit cloneしたファイルを編集して、git pushしてください。
   * ローカルでのプレビューはpro版のみの対応になっています。ただ、freeでもローカルでプレビューをできるDocker imageを作っている人がいたので載せます。
   ### How to preview with free acount in local enviroment
