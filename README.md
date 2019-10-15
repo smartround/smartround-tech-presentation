@@ -13,12 +13,11 @@
 ```
 Repository
  ├ README.md
+ ├ PITCHME.md     #スライド本体
+ ├ PITCHME.yaml   #スライド設定ファイル
  └ assets
        ├ img      #挿入用イメージフォルダ
-       ├ css      #設定用cssフォルダ
-       └ md       #スライド本体用mdフォルダ
-          ├ PITCHME.md     #スライド本体
-          └ PITCHME.yaml   #スライド設定ファイル
+       └ css      #設定用cssフォルダ
  ```
  
 ### Reference
