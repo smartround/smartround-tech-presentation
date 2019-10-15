@@ -7,6 +7,7 @@
 ```
 Repository
  ├ README.md
+ ├ HOW_TO_DEVELOPE.md
  ├ PITCHME.md     #スライド本体
  ├ PITCHME.yaml   #スライド設定ファイル
  └ assets
