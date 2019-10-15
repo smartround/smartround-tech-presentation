@@ -37,6 +37,7 @@ Repository
  ## How to preview online
  以下のurlにアクセス
  gitpitch.com/smart-round/smartround-tech-presentation
+ 
  ※ブランチを選択したい場合
  gitpitch.com/smart-round/smartround-tech-presentation/<ブランチ名>
  
