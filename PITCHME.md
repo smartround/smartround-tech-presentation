@@ -167,7 +167,9 @@ TODO: 簡単な図を書く
   * CodeBuild / CodePipeline
 * Others
   * Route53
-  
+@snapend
+
+@snap[text-07]
 ※ 今後の拡張に備えなるべく一般的な構成にすることを意識してます
 @snapend
 
