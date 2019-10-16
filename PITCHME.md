@@ -21,16 +21,21 @@
 
 ### サービスについて
 
+@snap[east span-50]
+<table border="0">
+<tr>
+<td><img src="assets/img/startup.png"></td>
+<td><img src="assets/img/investor.png"></td>
+<td><img src="assets/img/advisor.png"></td>
+</tr>
+</table>
+@snapend
+
+@snap[west span-50]
 * スタートアップが資金調達するプロセスを効率化するサービスです
 * スタートアップ・投資家・アドバイザー（士業）向けの3サービスを提供しています
 * [サービスURLはこちらです](https://jp.smartround.com)
-<table border="0">
-<tr>
-<td><img src="assets/img/startup.jpg"></td>
-<td><img src="assets/img/investor.jpg"></td>
-<td><img src="assets/img/advisor.jpg"></td>
-</tr>
-</table>
+@snapend
 
 ---
 
