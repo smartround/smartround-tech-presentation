@@ -126,7 +126,7 @@
 ### コンポーネント設計
 
 * サービス規模が大きく長期的な目線で開発して</br>いきたいためコンポーネント設計についても意識しています。
-* [（社内向け資料ですが）StoryBookも公開している<br/>のでご参考ください](https://github.com/smartround/smartround-storybook) 
+* [StoryBookも公開している<br/>のでご参考ください](https://github.com/smartround/smartround-storybook) 
 
 ---
 
