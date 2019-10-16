@@ -14,7 +14,7 @@
 ### この資料で紹介すること
 
 * 技術スタック
-* smartroundのシステムとしての特徴
+* smartroundのシステム特徴
 * 技術選定の背景・理由
 
 ---
@@ -80,7 +80,9 @@
 
 ---
 
+@snap[midpoint span-100]
 ### フロントエンドについて
+@snapend
 
 ---
 
@@ -123,7 +125,9 @@ xx
 
 ---
 
+@snap[midpoint span-100]
 ### サーバサイドについて
+@snapend
 
 ---
 
@@ -142,7 +146,9 @@ xx
 
 ---
 
+@snap[midpoint span-100]
 ### インフラについて
+@snapend
 
 ---
 
