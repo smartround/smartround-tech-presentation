@@ -110,7 +110,7 @@
 
 ---
 
-### フロントエンドその他特徴
+### その他特徴
 
 @snap[west span-50]
 @img[](/assets/img/feature-drag-and-drop.png)
@@ -125,8 +125,8 @@
 
 ### コンポーネント設計
 
-* サービス規模が大きく長期的な目線で開発していけるようにしたいと考えているため、コンポーネント設計についても意識しています。
-* [（社内向け資料ですが）StoryBookも公開しているのでご参考ください](https://github.com/smartround/smartround-storybook) 
+* サービス規模が大きく長期的な目線で開発していきたいため</br>コンポーネント設計についても意識しています。
+* [（社内向け資料ですが）StoryBookも公開している<br/>のでご参考ください](https://github.com/smartround/smartround-storybook) 
 
 ---
 
