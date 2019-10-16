@@ -97,25 +97,30 @@
 ---
 
 
-### フロントエンドの特徴1
+### Typescript採用背景
 
 @snap[west span-50]
 @img[](/assets/img/feature-capital-event-preview.png)
 @snapend
 
 @snap[east span-50]
-* 数値計算等の処理もあるため、JSに型がつけられるTypescriptを採用しました
+* 数値計算等の処理もあるため、JSに型がつけられるTypescriptを採用
  * 例) 入力値から資本政策表を自動計算しリアルタイムプレビュー
 @snapend
 
 ---
 
-### フロントエンドの特徴2
+### フロントエンドその他特徴
 
-* UXを上げるため、Drag and Drop APIなりをUXが重要なページでは惜しまずつかう。
-	※ 権限UIの良い感じの画面キャプチャとかあるイメージ
-	※ リアルタイム保存のスプレッドシートの話も書くと良さそう
-* 他にもWeb Pushやwebsocket等、UX上重要な事項に様々チャレンジしています。
+@snap[west span-50]
+@img[](/assets/img/feature-drag-and-drop.png)
+@snapend
+
+@snap[east span-50]
+* UXを上げるためDrag and Drop APIなど積極的に利用
+* 他にもWeb Pushやwebsocket等、UX向上のため様々チャレンジしています
+@snapend
+
 ---
 
 ### コンポーネント設計
