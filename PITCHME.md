@@ -32,10 +32,34 @@
 
 ---
 
-### 技術スタック
+### 技術スタック: サービスに利用している技術
 
-https://github.com/smartround/smartround-v2のREADMEやWantedlyに書いてある内容のロゴを羅列するイメージ
+* Frontend
+  * 言語: Typescript / SCSS
+  * フレームワーク: Vue.js
+* Backend
+  * 言語: Kotlin(JVM)
+  * フレームワーク: Ktor
+* DB
+  * RDB: PostgreSQL
+  * KVS: Redis
+* Infrastructure
+  * AWS
+  * 構成管理にTerraform / Serverless
   
+---
+
+### 技術スタック: 開発に利用しているツール群
+
+* Communication
+  * Slack / Github / Zenhub
+* Design
+  * Figma / Zeplin
+* DevOps
+  * CircleCI
+* Monitoring
+  * TrackJs
+
 ---
 
 ### smartroundのシステムとしての特徴
