@@ -37,6 +37,7 @@
 
 ### 技術スタック1: サービス利用技術
 
+@snap[text-08]
 * Frontend
   * 言語: Typescript / SCSS
   * フレームワーク: Vue.js
@@ -49,6 +50,7 @@
 * Infrastructure
   * AWS
   * 構成管理にTerraform / Serverless
+@snapend
   
 ---
 
