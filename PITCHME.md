@@ -204,5 +204,6 @@ TODO: 簡単な図を書く
 
 ### 採用ページ
 
-一緒にサービスを作っていきたい方お待ちしてます！
-[Wantedlyページ](https://www.wantedly.com/companies/company_4346433/projects)
+* 一緒にサービスを作っていきたい方お待ちしてます！
+* 技術以外の面でも色々魅力がある会社なので是非[Wantedlyもご覧ください！](https://www.wantedly.com/companies/company_4346433/projects)
+
