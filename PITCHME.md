@@ -56,6 +56,7 @@
 
 ### 技術スタック2: 開発ツール
 
+@snap[text-08]
 * Communication
   * Slack / Github / Zenhub
 * Design
@@ -64,6 +65,7 @@
   * CircleCI
 * Monitoring
   * TrackJs
+@snapend
 
 ---
 
