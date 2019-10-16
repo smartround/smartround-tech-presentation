@@ -8,8 +8,8 @@ title : "smartroundを支える技術"
 layout : center
 
 #ロゴアイコンの設定
-logo : assets/img/logo.png
-logo-position : top-right
+logo : assets/img/logo-min.png
+logo-position : bottom-right
 
 #フットノートの設定
 footnote : "© 2019 smartround"
