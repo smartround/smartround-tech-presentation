@@ -107,6 +107,10 @@
 
 ---
 
+### サーバサイドについて
+
+---
+
 ### サーバサイド概要
 
 レイヤをしっかり分けている
@@ -121,9 +125,26 @@
 
 ---
 
+### インフラについて
+
+---
+
 ### インフラ
 
-利用AWSサービス群（ロゴ一覧を乗せる）
+利用しているAWSサービスの一例です。
+
+* WebApp
+  * ElasticBeanstalk / RDS / Elasticache
+* Batch
+  * Lambda
+* WebsocketAPI
+  * API Gateway / Lambda / DynamoDB 
+* Build / Deploy
+  * CodeBuild / CodePipeline
+* Others
+  * Route53
+
+今後の拡張に備え、なるべく一般的な構成にすることを意識しています。
 
 ---
 
@@ -151,4 +172,5 @@
 
 ### 採用ページ
 
-[一緒にサービスを作っていきたい方お待ちしてます！](https://www.wantedly.com/companies/company_4346433/projects)
+一緒にサービスを作っていきたい方お待ちしてます！
+[Wantedlyページ](https://www.wantedly.com/companies/company_4346433/projects)
