@@ -1,5 +1,5 @@
 @snap[midpoint span-100]
-## smartroundを支える技術
+### smartroundを支える技術
 @snapend
 
 ---
