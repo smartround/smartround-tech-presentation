@@ -85,7 +85,7 @@
 
 ---
 
-@snap[north span-100]
+@snap[north-west span-70]
 ### フロントエンドの特徴1
 @snapend
 
