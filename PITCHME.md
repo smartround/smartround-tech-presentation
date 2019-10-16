@@ -142,7 +142,7 @@ xx
 ### サーバサイドアーキテクチャ
 
 
- 小山が簡単な図を書く
+TODO: 簡単な図を書く
 
 ---
 
@@ -156,6 +156,7 @@ xx
 
 利用しているAWSサービスの一例です。
 
+@snap[text-08]
 * WebApp
   * ElasticBeanstalk / RDS / Elasticache
 * Batch
@@ -166,6 +167,7 @@ xx
   * CodeBuild / CodePipeline
 * Others
   * Route53
+@snapend
 
 今後の拡張に備え、なるべく一般的な構成にすることを意識しています。
 
