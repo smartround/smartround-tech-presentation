@@ -100,12 +100,12 @@
 ### フロントエンドの特徴1
 
 @snap[west span-50]
-xx
+@img[](/assets/img/feature-capital-event-preview.png)
 @snapend
 
 @snap[east span-50]
 * 数値計算等の処理もあるため、JSに型がつけられるTypescriptを採用しました
- * 例) UXが重要なシーンではフロントリッチで数値計算等も行う
+ * 例) 入力値から資本政策表を自動計算しリアルタイムプレビュー
 @snapend
 
 ---
