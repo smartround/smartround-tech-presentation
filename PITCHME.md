@@ -1,4 +1,6 @@
-### smartroundを支える技術
+@snap[midpoint span-100]
+## smartroundを支える技術
+@snapend
 
 ---
 
@@ -85,9 +87,8 @@
 
 ---
 
-@snap[north-west span-70]
+
 ### フロントエンドの特徴1
-@snapend
 
 @snap[west span-50]
 xx
