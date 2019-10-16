@@ -1,7 +1,8 @@
 ## Overview
 
 ### Usage
-「外部の人向けにsmartroundを支える技術の紹介」のスライドをGitPitchで作成するためのレポジトリです。
+
+smartroundを支える技術の紹介スライドをGitPitchで作成するためのレポジトリです。
 
 ### Directory Structure
 ```
