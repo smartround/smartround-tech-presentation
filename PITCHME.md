@@ -87,11 +87,11 @@
 
 ### フロントエンドの特徴1
 
-@snap[west]
+@snap[west span-50]
 xx
 @snapend
 
-@snap[east]
+@snap[east span-50]
 * 数値計算等の処理もあるため、JSに型がつけられるTypescriptを採用しました
  * 例) UXが重要なシーンではフロントリッチで数値計算等も行う
 @snapend
