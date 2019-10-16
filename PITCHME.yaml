@@ -1,5 +1,5 @@
 #テーマの設定
-theme : sky
+theme : template
 
 #タイトル設定
 title : "smartroundを支える技術"
@@ -17,14 +17,5 @@ footnote : "© 2019 smartround"
 #スライドのページ数表示の設定
 slide-number: true
 
-#スライド自動再生の設定
-#autoslide : 5000
-
-#スライドのループ設定
-#loop : true
-
 #トランジションの設定
 transition : fade
-
-#チャート / グラフ機能の設定
-#charts : true
