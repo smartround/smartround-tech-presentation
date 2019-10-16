@@ -9,7 +9,7 @@ layout : center
 
 #ロゴアイコンの設定
 logo : assets/img/logo-min.png
-logo-position : bottom-right
+logo-position : top-right
 
 #フットノートの設定
 footnote : "© 2019 smartround"
