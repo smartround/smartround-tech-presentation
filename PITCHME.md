@@ -22,13 +22,9 @@
 ### サービスについて
 
 @snap[east span-50]
-<table border="0">
-<tr>
-<td><img src="assets/img/startup.png"></td>
-<td><img src="assets/img/investor.png"></td>
-<td><img src="assets/img/advisor.png"></td>
-</tr>
-</table>
+<img src="assets/img/startup.png">
+<img src="assets/img/investor.png">
+<img src="assets/img/advisor.png">
 @snapend
 
 @snap[west span-50]
