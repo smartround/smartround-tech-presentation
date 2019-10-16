@@ -88,7 +88,7 @@
 ### フロントエンドの特徴1
 
 @snap[west]
-![Video](assets/img/shihonseisaku.mp4)
+xx
 @snapend
 
 @snap[east]
