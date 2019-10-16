@@ -5,7 +5,7 @@ theme : template
 title : "smartroundを支える技術"
 
 #レイアウトの設定
-layout : center
+layout : top-left
 
 #ロゴアイコンの設定
 logo : assets/img/logo-min.png
