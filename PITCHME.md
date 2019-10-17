@@ -61,7 +61,7 @@
   * Slack / GitHub / ZenHub
 * Design
   * Figma / Zeplin
-* DevOps
+* CI
   * CircleCI
 * Monitoring
   * TrackJs
@@ -76,7 +76,7 @@
 <br/>
 <br/>
 * 2.セキュリティ
-  <br/>特に他社のデータを閲覧できるという点は<br/>SaaSとしては珍しいサービス特性
+  <br/>（SaaSとしては珍しく）他社データの閲覧が基本機能としてあるため<br/>情報漏洩が無いようにする必要がある
 
 ---
 
