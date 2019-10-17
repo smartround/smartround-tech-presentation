@@ -39,7 +39,7 @@
 
 @snap[text-08]
 * Frontend
-  * 言語: Typescript / SCSS
+  * 言語: TypeScript / SCSS
   * フレームワーク: Vue.js
 * Backend
   * 言語: Kotlin(JVM)
@@ -58,7 +58,7 @@
 
 @snap[text-08]
 * Communication
-  * Slack / Github / Zenhub
+  * Slack / GitHub / ZenHub
 * Design
   * Figma / Zeplin
 * DevOps
@@ -71,7 +71,7 @@
 
 ### smartroundのシステム特徴
 
-* 1.UX/UIの追求
+* 1.UI/UXの追求
   <br/>先行サービスが日本では少ないため<br/>とにかくわかりやすいサービスにする必要がある
 <br/>
 <br/>
@@ -151,7 +151,7 @@
 
 * レイヤをきっちり分けている
  * 権限制御を多層的に漏れなく行えるようにするため
- * 3サービス同時展開で共通コードも多いく<br/>メンテナンス性を確保するため
+ * 3サービス同時展開で共通コードも多く<br/>メンテナンス性を確保するため
 
 ---
 
@@ -173,7 +173,7 @@ TODO: レイヤを分けていることを示す簡単な図を書く
 
 @snap[text-08]
 * WebApp
-  * ElasticBeanstalk / RDS / Elasticache
+  * ElasticBeanstalk / RDS / ElastiCache
 * Batch
   * Lambda
 * WebsocketAPI
