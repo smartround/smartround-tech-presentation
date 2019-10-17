@@ -161,9 +161,7 @@
 
 ### サーバサイドアーキテクチャ
 
-レイヤを意識した設計にしており<br/>コードのモジュール化も行っています
-
-@img[](assets/img/serverside-architecute-graph1.png)
+@img[](assets/img/serverside-architecute-graph.png)
 
 ---
 
