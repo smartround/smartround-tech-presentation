@@ -22,9 +22,7 @@
 ### サービスについて
 
 @snap[west span-50]
-@img[](assets/img/startup.png)
-@img[](assets/img/investor.png)
-@img[](assets/img/advisor.jpg)
+@img[](assets/img/startup-investor-advisor.png)
 @snapend
 
 @snap[east span-50]
