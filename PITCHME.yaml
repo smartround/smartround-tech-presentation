@@ -19,3 +19,6 @@ slide-number: true
 
 #トランジションの設定
 transition : fade
+
+# GoogleAnalyticsのID
+gatoken : UA-134923609-4
