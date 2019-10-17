@@ -161,7 +161,9 @@
 
 ### サーバサイドアーキテクチャ
 
-TODO: レイヤを分けていることを示す簡単な図を書く
+レイヤを意識した設計にしており、コードのモジュール化も進めています
+
+@img[](assets/img/serverside-architecture-graph.png)
 
 ---
 
