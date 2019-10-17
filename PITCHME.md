@@ -161,9 +161,9 @@
 
 ### サーバサイドアーキテクチャ
 
-レイヤを意識した設計にしており、コードのモジュール化も進めています
+レイヤを意識した設計にしており<br/>コードのモジュール化も行っています
 
-@img[](assets/img/serverside-architecture-graph.png)
+@img[](assets/img/serverside-architecute-graph.png)
 
 ---
 
