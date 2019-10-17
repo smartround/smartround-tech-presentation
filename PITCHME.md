@@ -173,7 +173,7 @@ TODO: レイヤを分けていることを示す簡単な図を書く
 
 @snap[text-08]
 * WebApp
-  * ElasticBeanstalk / RDS / ElastiCache
+  * ElasticBeanstalk / RDS / ElastiCache / S3
 * Batch
   * Lambda
 * WebsocketAPI
@@ -181,7 +181,7 @@ TODO: レイヤを分けていることを示す簡単な図を書く
 * Build / Deploy
   * CodeBuild / CodePipeline
 * Others
-  * Route53
+  * Route53 / QuickSight / CloudTrail
 @snapend
 
 @snap[text-07]
@@ -190,10 +190,33 @@ TODO: レイヤを分けていることを示す簡単な図を書く
 
 ---
 
+### リリースサイクル
+
+* 週1で定期リリースを行っています
+  * リリースサイクルは短く保つことを意識しています
+
+---
+
 ### 現在のチーム
 
 * エンジニア3名、デザイナー1名という少数精鋭で進めています。
 * やりたいことはたくさんあり、自身の力量が<br/>ダイレクトに反映されるやりがいのある仕事です💪
+
+---
+
+### 制度的なサポート
+
+* 開発マシンは自由に選べます
+  * 例：MacbookProの最新機種にメモリ増設する人も
+* カンファレンス参加費・技術書購入費へのサポートもあります
+  * 例：KotlinConf2019への参加費全額出ました
+
+---
+
+### 他社との交流
+
+* Kotlin, Ktorが技術的に新しいこともあり、コミュニティとして交流が盛んです
+  * 例：同じKtorを採用している近隣スタートアップと飲み会・勉強会を開催
 
 ---
 
