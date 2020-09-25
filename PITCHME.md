@@ -38,8 +38,6 @@
 
 ---
 
----
-
 ### 実績
 
 * 業界のプレイヤーを巻き込みつつサービス展開しています
@@ -149,9 +147,11 @@
 @img[](/assets/img/figma-symbols.png)
 @snapend
 
+@snap[east span-50]
 * サービス規模が大きく長期的な目線で開発</br>していきたいためコンポーネント設計に</br>ついても意識しています
   * [StoryBookも公開しています](https://smartround.github.io/smartround-storybook/?path=/story/*)
   * Figmaでシンボル定義もしていっています 
+@snapend
 
 ---
 
