@@ -29,10 +29,8 @@
 
 @snap[east span-50]
 * スタートアップ・投資家間の日本最大のデータプラットフォームとなることを目指しています
-* スタートアップ向けには投資家の方とのやりとりや会社運営において必要な様々なサービスを提供
- * 株主総会・資本政策・経営管理・投資家とのマッチング
-* 投資家向けには投資先管理のためのCRMを提供しています
- * スタートアップがデータ入力することで自動更新されるCRMというのが特徴です
+  * スタートアップ向け：株主総会・資本政策・経営管理・投資家とのマッチング
+  * 投資家向け：投資先管理CRM
 * [サービスURLはこちら](https://jp.smartround.com)
 @snapend
 
@@ -149,7 +147,7 @@
 
 @snap[east span-50]
 * サービス規模が大きく</br>長期的な目線で開発</br>していきたいため</br>コンポーネント設計に</br>ついても意識しています
-  * 画像はFigmaのシンボル定義です
+  * 画像はFigmaのシンボル定義の一例です
   * [StoryBookも公開しています](https://smartround.github.io/smartround-storybook/?path=/story/*)
 @snapend
 
@@ -258,7 +256,7 @@
 
 * ベンチャーファイナンスに詳しくなれます💰
   * [資金調達のメカニズム](https://www.smartround.com/public/articles) や株の仕組みについて詳しくなれます
-  * [株主総会](https://www.smartround.com/public/articles/shareholderMeeting) 等、会社運営にも詳しくなれます
+  * [株主総会](https://www.smartround.com/public/articles/shareholderMeeting) 等会社運営にも詳しくなれます
 * 社長が「自身で起業した会社をNTTドコモに売却した経験」「米国のVentureCapital勤務経験」等このドメインにとても詳しいので、様々学べます。
 
 ---
