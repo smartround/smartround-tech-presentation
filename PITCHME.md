@@ -6,13 +6,15 @@
 
 ### 初めに
 
-* この資料は2019年10月時点の内容です
-* まだサービス開発開始後1年未満で急成長中なので<br/>それを踏まえた上で現在とのDiffは脳内補完してください
+* この資料は2020年10月時点の内容です
+* まだサービス開発開始後2年未満で急成長中なので<br/>それを踏まえた上で現在とのDiffは脳内補完してください
+* [Github管理しているので以前のものも見れます](https://github.com/smartround/smartround-tech-presentation)
 
 ---
 
 ### この資料で紹介すること
 
+* smartroundとは
 * 技術スタック
 * smartroundのシステム特徴
 * 技術選定の背景・理由
@@ -26,10 +28,20 @@
 @snapend
 
 @snap[east span-50]
-* スタートアップが資金調達するプロセスを効率化するサービスです
-* スタートアップ・投資家・アドバイザー（士業）向けの3サービスを提供しています
+* スタートアップ・投資家間の日本最大のデータプラットフォームとなることを目指しています
+  * スタートアップには株主総会・資本政策・経営管理・投資家とのマッチング
+  * 投資家向けには投資先管理CRM
 * [サービスURLはこちら](https://jp.smartround.com)
 @snapend
+
+---
+
+### 反響
+
+* 業界のプレイヤーを巻き込みつつサービス展開しています
+  * スタートアップ1200社登録
+  * 投資家100社以上がパートナー企業に
+* 著名エンジェル20名近くや海外投資家からも投資を受けています
 
 ---
 
@@ -129,8 +141,15 @@
 
 ### コンポーネント設計
 
-* サービス規模が大きく長期的な目線で開発</br>していきたいためコンポーネント設計に</br>ついても意識しています
-* [StoryBookも公開しているのでご参照ください](https://smartround.github.io/smartround-storybook/?path=/story/*) 
+@snap[west span-50]
+@img[](/assets/img/figma-symbols.png)
+@snapend
+
+@snap[east span-50]
+* サービス規模が大きく</br>長期的な目線で開発</br>していきたいため</br>コンポーネント設計に</br>ついても意識しています
+  * 画像はFigmaのシンボル定義の一例です
+  * [StoryBookも公開しています](https://smartround.github.io/smartround-storybook/?path=/story/*)
+@snapend
 
 ---
 
@@ -185,7 +204,7 @@
 * Build / Deploy
   * CodeBuild / CodePipeline
 * Others
-  * Route53 / QuickSight / CloudTrail
+  * Route53 / CloudWatchLogs / QuickSight / CloudTrail / GuardDuty
 @snapend
 
 @snap[text-07]
@@ -205,6 +224,7 @@
 
 * エンジニア3名、デザイナー1名という少数精鋭で進めています。
 * やりたいことはたくさんあり、自身の力量が<br/>ダイレクトに反映されるやりがいのある仕事です💪
+* コロナ禍によりオフィスを解約し社員全員フルリモート勤務になったため、勤務地は問いません！
 
 ---
 
@@ -226,7 +246,7 @@
 
 ### その他魅力1
 
-* サービス開発スタート時から今に至るまで同じ<br/>エンジニア・デザイナーがフルコミット😎
+* サービス開発スタート時から今に至るまでほぼ同じ<br/>エンジニア・デザイナーがフルコミット😎
   * 初期から一貫した思想でUI/UXやコードベースが<br/>作られてきました
   * スタートアップあるあるの立ち上げ期の謎の負債は<br/>極めて少ないです 
 
@@ -235,6 +255,8 @@
 ### その他魅力2
 
 * ベンチャーファイナンスに詳しくなれます💰
+  * [資金調達のメカニズム](https://www.smartround.com/public/articles) や株の仕組みについて詳しくなれます
+  * [株主総会](https://www.smartround.com/public/articles/shareholderMeeting) 等会社運営にも詳しくなれます
 * 社長が「自身で起業した会社をNTTドコモに売却した経験」「米国のVentureCapital勤務経験」等このドメインにとても詳しいので、様々学べます。
 
 ---
@@ -242,5 +264,5 @@
 ### 採用ページ
 
 * 一緒にサービスを作っていきたい方お待ちしてます！
-* 技術以外の面でも色々魅力がある会社なので是非[Wantedlyもご覧ください！](https://www.wantedly.com/companies/company_4346433/projects)
+* 技術以外の面でも色々魅力がある会社なので詳細は[Wantedlyもご覧ください！](https://www.wantedly.com/companies/company_4346433/projects)
 
