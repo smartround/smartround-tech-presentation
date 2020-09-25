@@ -257,8 +257,8 @@
 ### その他魅力2
 
 * ベンチャーファイナンスに詳しくなれます💰
-  * 資金調達のメカニズムや株の仕組みについて詳しくなれます（[参考：弊社公開の資金調達マニュアル](https://www.smartround.com/public/articles) ）
-  * 株主総会等、会社運営にも詳しくなれます（[参考：株主総会マニュアル](https://www.smartround.com/public/articles/shareholderMeeting) ）
+  * [資金調達のメカニズム](https://www.smartround.com/public/articles) や株の仕組みについて詳しくなれます
+  * [株主総会](https://www.smartround.com/public/articles/shareholderMeeting) 等、会社運営にも詳しくなれます
 * 社長が「自身で起業した会社をNTTドコモに売却した経験」「米国のVentureCapital勤務経験」等このドメインにとても詳しいので、様々学べます。
 
 ---
