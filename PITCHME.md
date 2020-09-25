@@ -148,9 +148,9 @@
 @snapend
 
 @snap[east span-50]
-* サービス規模が大きく長期的な目線で開発</br>していきたいためコンポーネント設計に</br>ついても意識しています
+* サービス規模が大きく</br>長期的な目線で開発</br>していきたいため</br>コンポーネント設計に</br>ついても意識しています
+  * 画像はFigmaのシンボル定義です
   * [StoryBookも公開しています](https://smartround.github.io/smartround-storybook/?path=/story/*)
-  * Figmaでシンボル定義もしていっています 
 @snapend
 
 ---
